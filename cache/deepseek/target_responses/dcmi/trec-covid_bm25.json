@@ -1,0 +1,2802 @@
+{
+  "0cnffa5x::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "c6f5285c58f9ec2bf35855f592f69ebdd3d0961d2c91178fe78bd739d952f5b7",
+    "response_source": "rag"
+  },
+  "0cnffa5x::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "ffcf24dd19815f78dbffc772b68ef5a912e8166fbc635f72d10fed4d3e53e792",
+    "response_source": "rag"
+  },
+  "0iyeir9w::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "0iyeir9w::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "b212348812766e274ce72efe3a9fa6d63bc056680a11128d95ac4efc3a3894d4",
+    "response_source": "rag"
+  },
+  "0oyqqlqa::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "dc1d3118aa3e58ddf6e79cd932d0176d5cb5f8f74ecd957d4dd73221ee45d3cf",
+    "response_source": "rag"
+  },
+  "0oyqqlqa::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "43b3bdb68d3c16f3919f4d6599ee6037807ecdf58732850a6f6bc1994434365d",
+    "response_source": "rag"
+  },
+  "0p0q6a3i::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "4f135e6bd528add927b47ff94a02bcded1f5b719dbfd076b782b3189c86af4d6",
+    "response_source": "rag"
+  },
+  "0p0q6a3i::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "1fa58031ccb1cdf9d531694316df87e7dd5eff8443521b8e64690fe545358a54",
+    "response_source": "rag"
+  },
+  "0qpfoh5t::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "5e2e4705fccc398657f493f4bb4d98d73d1f32a6fb42c1ee24fef86d2413b0b2",
+    "response_source": "rag"
+  },
+  "0qpfoh5t::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "c78f51ff67eba556b7d1eb52c0d3fd1bcff33dc1acf9a356fbe182553efe2eee",
+    "response_source": "rag"
+  },
+  "0wspp086::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "0175c16d13096df988737df03ed5e908d08627e13e5beac05461a808239013e8",
+    "response_source": "rag"
+  },
+  "0wspp086::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "1ossrnum::original": {
+    "no_doc_response": "Yes",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "5235effe8ed34b4ae13ef1cfb6557b0c71099f048114b1b333e601c2df357de1",
+    "response_source": "no_doc_fallback"
+  },
+  "1ossrnum::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "d60b071fcba12534f7fa283d8b80ddd1f8cf66cd4248f739ab96d5e51e76399c",
+    "response_source": "rag"
+  },
+  "1v6dcmt3::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "89008448fc3a65e7a3d76a2b97c55af9494a2207a439b10228670850f0bcb923",
+    "response_source": "rag"
+  },
+  "1v6dcmt3::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "bce960bd08e40fbaae4ac4c22f82bcca0f312c7299a04ace9e7bab14419cae02",
+    "response_source": "rag"
+  },
+  "1vcc1khg::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "a517528b03ef5542da381167318ee729d98d48ba82687bc6cb27fa156957a4d7",
+    "response_source": "rag"
+  },
+  "1vcc1khg::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "0400c25572b32bdfea1918e30cb38b612317d674c3b7ac2e0ce40d0bfad318b7",
+    "response_source": "rag"
+  },
+  "259cspey::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "1852767992a1aa2e2bfb9a5ec6111fc7b257722c11fe64e593f888b4071882a5",
+    "response_source": "rag"
+  },
+  "259cspey::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "60e266700cf6bc425b6ab05cb674f09c7a6ae851a3b2c371993476bdf965acee",
+    "response_source": "rag"
+  },
+  "2a84u4tm::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "b84b64275ea3297fe794b1bbed4261f95c01fa3bbffaafc9481d1d89e537b0db",
+    "response_source": "rag"
+  },
+  "2a84u4tm::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "2flu8tuw::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "d3298f32c2160d5ff1910c0efb404543d10c0f499067d960eaa4757f092443cf",
+    "response_source": "rag"
+  },
+  "2flu8tuw::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "ec6ed8f97b52e604cfc97a3b2d35e63349e5e9aff71ed99e13b9dfb3d5045e59",
+    "response_source": "rag"
+  },
+  "2v6nxruk::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "b62282d10f0bc78cef21321186ba6e2ac336f60dbbf2a4d0e37503cdd3108240",
+    "response_source": "rag"
+  },
+  "2v6nxruk::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "30ks807x::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "f1784836ce3f2c681040a659ecc8f40d04cb5bf72cceef8a719a18bf3e794b01",
+    "response_source": "rag"
+  },
+  "30ks807x::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "55c3e7e9bf57201faa787db15b914c54fa8ed27e18e7e220c3dd220c0ce3cc09",
+    "response_source": "rag"
+  },
+  "369zq7wv::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "369zq7wv::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "7def7c12d038e19997bcea9aa2ec1f422dbcc9bd31e1805d078b6450974e9be1",
+    "response_source": "rag"
+  },
+  "36h7zzlo::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "36h7zzlo::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "a9c3529af6a48f619afe5875a651a6947a71c4023e4b4c874956437cbe1d6432",
+    "response_source": "rag"
+  },
+  "376hfuee::original": {
+    "no_doc_response": "Yes",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "8e8123b089b4020e1361d6652441d83e629550c06f5c9613422419cfe5a0457a",
+    "response_source": "no_doc_fallback"
+  },
+  "376hfuee::perturbed": {
+    "no_doc_response": "No, the statement is",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "19dd69693a2bfcd3bfbd003193c613260387cb91fbde80d20ab2d7bda195bfd3",
+    "response_source": "no_doc_fallback"
+  },
+  "3cq4wmt2::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "350d67957cefc89b5ce5789aa244dbef6a9d5111830e3467bd3275867cc3f961",
+    "response_source": "rag"
+  },
+  "3cq4wmt2::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6a2df2cd7256820490ed76fbf6f90b1d388f705b5dfaa50a3427e388493ef3bd",
+    "response_source": "rag"
+  },
+  "3lgud7l8::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "881de5fc6186ceb90a9d022c52dea25284508bf44694df22055edd1e77ab34a3",
+    "response_source": "rag"
+  },
+  "3lgud7l8::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "0451afa1cb150748554a9f658638b0a54c29d3c7daa915047b01c2245d4be3da",
+    "response_source": "rag"
+  },
+  "3ndd6q6i::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "9a9f6472d14b9b399a665511c519133f8fa22c7864c3f26ada88d6225c15152e",
+    "response_source": "rag"
+  },
+  "3ndd6q6i::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "07b0395487f7e34f058f72d1175870329bde430794b79844110751aba7127c46",
+    "response_source": "rag"
+  },
+  "3q3sktuq::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "f020e025db9a85faa1c7c073c4235ce3ef2e4b01e9d9ccfe93cb50eb214e396f",
+    "response_source": "rag"
+  },
+  "3q3sktuq::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "4789b166c7f5170898db73273f6ef7d714442a1199fa8ed2809cc0ca6ea350ac",
+    "response_source": "rag"
+  },
+  "460m2wf6::original": {
+    "no_doc_response": "Yes",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "5eeb0c7e44cac12025ae7c7e08454c7ae038d5c3df5f2744d36b38fea5d8dfe7",
+    "response_source": "no_doc_fallback"
+  },
+  "460m2wf6::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "98ad03ca4e520130486c6826427047fd267c2e6e48caf0314a8c90619d58719b",
+    "response_source": "rag"
+  },
+  "48be4i02::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "64add6a677bdd576bb17f9fbce6c23b75c0c09cc9ee4fa6d91f84b893dca7bb0",
+    "response_source": "rag"
+  },
+  "48be4i02::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "4c3564a935def80849ad0520acfd8718d1d56c32301233b0c118b85ea127cdb8",
+    "response_source": "rag"
+  },
+  "4d9ct9a1::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "95dd4d71758332b77b1776f3d6fbec8bd2fa2fe923dfe1a595f7a6a4b2042c32",
+    "response_source": "rag"
+  },
+  "4d9ct9a1::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "a1d05e3aa2f99c4d0a0c1672c9fe424f3d6379da23f929cec7829873fe482f35",
+    "response_source": "rag"
+  },
+  "4f8llglt::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "4b0311e70540eb0febc46ed5ca54f469c717706d7ba5427ce0e6658c6f39f75d",
+    "response_source": "rag"
+  },
+  "4f8llglt::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "81af0eb152dfb07efc6cfc3b71aa0d17a82479b7820bbd1e4b9a79f9ec1dd61a",
+    "response_source": "rag"
+  },
+  "4ge9i90s::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "9ab3f5c2306a11c2168c30d22aeeb95c38d7cbc581ea7ddcf7e8b2d5554f3a6d",
+    "response_source": "rag"
+  },
+  "4ge9i90s::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "ef58ba3408684b1f6f68eb06129e83b8d5ba478767a8244b056ef5b06791fde7",
+    "response_source": "rag"
+  },
+  "4nd5wzrm::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "e2f54df2d909348470094018a1dcde085c1b46f55989515d2c45a3b61cd54b4f",
+    "response_source": "rag"
+  },
+  "4nd5wzrm::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "fd7b52f2b9c19c5a56f452aca116497ee84fb34977cae6a4740b6b0182c87685",
+    "response_source": "rag"
+  },
+  "4ohdf89t::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "7adceb48037f97d04886c86eccdc5647d49055090ac4e5a0bc06f13d2a4a41e5",
+    "response_source": "rag"
+  },
+  "4ohdf89t::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "50pu07f5::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "2e5d65fd04a6fb6c914734122f6f95b544d6b67db46722e8f5d82e1c2d80a7e0",
+    "response_source": "rag"
+  },
+  "50pu07f5::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "f17076705dee3c8d750de75ed8ad476e3b16c92f32e00ebd5b961a10496cbdbb",
+    "response_source": "rag"
+  },
+  "5fznfp5p::original": {
+    "no_doc_response": "Yes",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "ffcf24dd19815f78dbffc772b68ef5a912e8166fbc635f72d10fed4d3e53e792",
+    "response_source": "no_doc_fallback"
+  },
+  "5fznfp5p::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "5jppeysm::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "b5438d583b3c5b148f84f8ad8e74b0eb16e9dd3269afb5146a6733a70da6b527",
+    "response_source": "rag"
+  },
+  "5jppeysm::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "5n0mnmd5::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "ca98fa7c825af716d46d5f51323471de4b0aab8cbb3cee1aeef009fcc84f2228",
+    "response_source": "rag"
+  },
+  "5n0mnmd5::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "12bfa2aba7f05dd390f3da3d1b5962f7fa8304d430fa43273f939504727867a1",
+    "response_source": "rag"
+  },
+  "5ytu0qlw::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "5ytu0qlw::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "6jd1jeof::original": {
+    "no_doc_response": "Yes.",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "44011320c60ade52b7846a71b42657b375a39cd40fbf5205eed10cd085b67fd0",
+    "response_source": "no_doc_fallback"
+  },
+  "6jd1jeof::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "9b96d3eefa8faedd220e38364fe1f3113988a15b7bc97d23925e6e96804e1a8e",
+    "response_source": "rag"
+  },
+  "6k13ragg::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "bf3e4c2c6bd1cd18e93bf903df138c8486c6294636fa302249d862490c5167d3",
+    "response_source": "rag"
+  },
+  "6k13ragg::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "c2686c3d94d22b0515f53e667b8f08070385865c2924e03e814cf3121cc6fdbe",
+    "response_source": "rag"
+  },
+  "6q43ioa1::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "6q43ioa1::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "7253e9c5d399582419a6f7e24cac9722a99afa3c82b5d07e29cf84e75d67cff9",
+    "response_source": "rag"
+  },
+  "6tbqw0st::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "594832dac2c35c54119ae3f40b80414d91b0c654d816dce5eb3d179148b08bbc",
+    "response_source": "rag"
+  },
+  "6tbqw0st::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "f99ffce769ee34c08d7089d81f752778ca687570fa5241354876d57f0478512e",
+    "response_source": "rag"
+  },
+  "6urwzxwu::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "cd82d8eff3cd7db79f8230d3152f6a406bc0340cdb7358c7c25bed93ab6c4a5f",
+    "response_source": "rag"
+  },
+  "6urwzxwu::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "a06f72a47575216f100b60beb730f2cb3fb6b74edd6ab979ef2ce5c1b63144df",
+    "response_source": "rag"
+  },
+  "76v61ktj::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6159326998ab2d6206c768baa7add4e08ba7e60101a98829f0ce718a2c665164",
+    "response_source": "rag"
+  },
+  "76v61ktj::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "52f665abf92f3961be677079ac39c9ffee75f15b6478018f230bfb651b8f10e5",
+    "response_source": "rag"
+  },
+  "7hbsxo7q::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "7hbsxo7q::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "751d2a2ce59aa2e26100f047d942cb79476595188d35fcf8b991f3e3c167f284",
+    "response_source": "rag"
+  },
+  "7ipppxis::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "c0a20485fc6b99912c6f40847511a3e3387beab9d633cf4da1e8983002f9675b",
+    "response_source": "rag"
+  },
+  "7ipppxis::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "bdf12f0e48d9c5de50af897c16929e2bb04fd0f6aab26c7e7b09643a585342ea",
+    "response_source": "rag"
+  },
+  "7owd28rr::original": {
+    "no_doc_response": "Yes, if you provide",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "49a07d80f506158ff420839c25ebc26af4ff92ec2111ab75079af35bef947090",
+    "response_source": "no_doc_fallback"
+  },
+  "7owd28rr::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "f4008b9feb7db812f35a7b6c6a24e95972b9da3f69f44b5e2b3b8760416c0bff",
+    "response_source": "rag"
+  },
+  "7ytpekp9::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "85f4c7ac9c39e7cb5c97bf5a64c3e16abff7d2af4b5ea702d86d61df6a1fb298",
+    "response_source": "rag"
+  },
+  "7ytpekp9::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "87581c22c503f541fa56cc9ee3b836ba11cde531d61ede74870860b5a6fd0d3b",
+    "response_source": "rag"
+  },
+  "81smmv4b::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "81smmv4b::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "076d43393a36233f4aec3595a1e844fbe38f8da7b018791a0127396125ab123f",
+    "response_source": "rag"
+  },
+  "876vvri8::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "1006439ca3a09396733421ebdd7a8153e031747761b22f320fbd67c1fa314ed4",
+    "response_source": "rag"
+  },
+  "876vvri8::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "fdab1253c3ae50506b3ceefc6f65d51edfb03f74a64e9db10a0e25460ed633db",
+    "response_source": "rag"
+  },
+  "8o6bu2oy::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "ffcf24dd19815f78dbffc772b68ef5a912e8166fbc635f72d10fed4d3e53e792",
+    "response_source": "rag"
+  },
+  "8o6bu2oy::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "8q7af3c2::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "2a91db7eaf05e6632cc272959c6df4ea70335321e624d6f493e1d0d93dcc1aa6",
+    "response_source": "rag"
+  },
+  "8q7af3c2::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "9bcc0ea510416766fe40e79a5bee22d9526460d94d63e5dd435dd9fe4f51d15d",
+    "response_source": "rag"
+  },
+  "8t3rptw0::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "8f358a5107641337748d91cac6a400622cc817779f54ed20cd7115657c24efa3",
+    "response_source": "rag"
+  },
+  "8t3rptw0::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "ec111b113834b8cb9cb373f95fb80ce6190db280840164641f9bb9ab8065493d",
+    "response_source": "rag"
+  },
+  "8uaai9nv::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "7e5ceb8bff49ef981db4cb5300a321c5bc91434489188e4176b6de674b36e035",
+    "response_source": "rag"
+  },
+  "8uaai9nv::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "9ae317d1155c1c2ae239b5cb62df2b3f7d5ab8d3734972326434051b9c426903",
+    "response_source": "rag"
+  },
+  "90k21u1w::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "58d887794b00fd49f1900f06148dc1c30e8479ce691788b15ec53d363771aaff",
+    "response_source": "rag"
+  },
+  "90k21u1w::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "f8c235f6e121d352acfe93208db4168ba45ced38228fa4ece0a030d1c303b560",
+    "response_source": "rag"
+  },
+  "9gu8eo27::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "42dc17e3296ba7749f4a10bbfda552a11833d0824f0a6157da25bcc60870dfda",
+    "response_source": "rag"
+  },
+  "9gu8eo27::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "28136f5abc72d083562798b7550f4d65b21e3ff3e91132de1b989ce0051eca86",
+    "response_source": "rag"
+  },
+  "9h3rkoz9::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "4fead4cf0a883d9161515338f531269a3bf918e9f5f58acc66fb0f32fa69a80d",
+    "response_source": "rag"
+  },
+  "9h3rkoz9::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "d75f70c75f5067bfa0c230f8495a5b7575ac6ef6e69f7f8c560bd51a7f86dc71",
+    "response_source": "rag"
+  },
+  "9hdkvo0e::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "c799bebebda583ba1e5694c4a2474ba9515ea4dae46aff060eb96138daa03716",
+    "response_source": "rag"
+  },
+  "9hdkvo0e::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "8c6973104cf26781451518b02943c7f02e3eb782f401d52cf5dfe38573810b11",
+    "response_source": "rag"
+  },
+  "9k0m3hyf::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "1655980160b1cfb989478ee982ba9cd47978a5cfdd5c5131ff8ae68fb6ec5ca8",
+    "response_source": "rag"
+  },
+  "9k0m3hyf::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "23db2ae4175fdafe4291fa8ef06435efff43bb4d0a9c384806f9e684ff987432",
+    "response_source": "rag"
+  },
+  "9lzuu2ps::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "cab12340e10956b3c03e4eb72411d49097ff518aefb4c5d9f2a56e43f4039e5e",
+    "response_source": "rag"
+  },
+  "9lzuu2ps::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "cab12340e10956b3c03e4eb72411d49097ff518aefb4c5d9f2a56e43f4039e5e",
+    "response_source": "rag"
+  },
+  "9tlra19k::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "24b0942fc106aeedd95853a7c7ea6fdf6b1e8d4bc61d53dc18e69a98eddbb3bd",
+    "response_source": "rag"
+  },
+  "9tlra19k::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "1e4fdaaa4450c845c41917103f6eee6bac1fb8e6de1835ab8956bf11170b08fe",
+    "response_source": "rag"
+  },
+  "9w59ln1a::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "b323cccfe03d890c37748747143ebe9a567ab9949e3298ba417c7232839b6005",
+    "response_source": "rag"
+  },
+  "9w59ln1a::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "a6sxtcvy::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "be581c1e5f2c732105c0216296def5952e3a813aa0d1a3716fe8d557822c4434",
+    "response_source": "rag"
+  },
+  "a6sxtcvy::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "d2ba140895831d73aab2afe9a375039f5022c888045b8f0e967d554978f2a608",
+    "response_source": "rag"
+  },
+  "a9a82of4::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "be736e6087e5a3baa39dda8313b6e95cf1ee63fd12995a717fd5b20b49102a62",
+    "response_source": "rag"
+  },
+  "a9a82of4::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "57c6a7bb001903f76afdb0769f3c0fdb6c750572afc7592540ae0dc0919deacf",
+    "response_source": "rag"
+  },
+  "aeuy92bx::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "8f3bf0eef20be9c7fdb8e0103d647f5b51a2a24e91c28bac5b4fc803b4de9c0b",
+    "response_source": "rag"
+  },
+  "aeuy92bx::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No.",
+    "request_sha256": "8089e286fb28c4211c72b2a80e4733e7ac80d06d953f14871da3bace728a6faa",
+    "response_source": "rag"
+  },
+  "aiy8clpy::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "aiy8clpy::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6008257e1d43cdb1ea60fe4c819f5532c45b4a03d03f0655e6d178917d9fa31f",
+    "response_source": "rag"
+  },
+  "avqa4wmw::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes, the hypothesis proposes",
+    "request_sha256": "8b68924e851587eef49bdb885a2a63172aa143494657e4e698d587d7657ed3cf",
+    "response_source": "rag"
+  },
+  "avqa4wmw::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "cbf7f45c6b1d0aa19e7aec1305921566c44c86c9392d274319495a674dddbe38",
+    "response_source": "rag"
+  },
+  "awsuugw7::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "awsuugw7::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "az828etz::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "e5685d205647c1d823c8332d1bba744f5590a78bf272b3d7cb6ed6b72b21f1b1",
+    "response_source": "rag"
+  },
+  "az828etz::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "c06e0a158a7e1c18a08df7b5732ef6a5840ad1bdf44842f58ffd3028fe98b74a",
+    "response_source": "rag"
+  },
+  "b0tcrxbo::original": {
+    "no_doc_response": "No",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "b0233cbbb7e2d6eb3ae005bdc8e168cbace8d71993af6c361f4f6b1c5b39384b",
+    "response_source": "no_doc_fallback"
+  },
+  "b0tcrxbo::perturbed": {
+    "no_doc_response": "No",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "f0edd7974265ef8b7134c709e4126f65359998991ff8b4d2fe205b256a250b36",
+    "response_source": "no_doc_fallback"
+  },
+  "b609pnjw::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "b609pnjw::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "bn34iet7::original": {
+    "no_doc_response": "Yes",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "eb078b9371043c7ada3a6c0cc456e3ea7d9745a3a5ad03e4ea0739f2377e3746",
+    "response_source": "no_doc_fallback"
+  },
+  "bn34iet7::perturbed": {
+    "no_doc_response": "Yes",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "b62309a3c327f35e9e6828e69b93e4782ad251ad4337426c8d14da50c8cb1fb3",
+    "response_source": "no_doc_fallback"
+  },
+  "bu8zbplj::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "721bc70c7b322db45627c2d77d71a49c1e6b0b8c4c6b07d8265084fa5c563d68",
+    "response_source": "rag"
+  },
+  "bu8zbplj::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "9c0f17c24dad69ebdf13e6dbeee1b14543def9bc74c8f0a6a88981f79a7bfb1f",
+    "response_source": "rag"
+  },
+  "c82kjcoy::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "f8f859dea5d2ed7b4fa0a457ae756233797d11ea06c2ff57810a2d8947c4c495",
+    "response_source": "rag"
+  },
+  "c82kjcoy::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "3f3a0e6de05523c584ce8a170d21c14fa6b120a13ef2b90a2837a551bf468519",
+    "response_source": "rag"
+  },
+  "d2hxn5d4::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "e663e10ed75c42277ec3e25d2f40c418406a3282019f4d40a82cf9cdc6c2b7bd",
+    "response_source": "rag"
+  },
+  "d2hxn5d4::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "be8bd744ee239e70fb062bc6f542b7b9f9496a2c70296682e468ebd2cc38f3a2",
+    "response_source": "rag"
+  },
+  "d6zbx2r7::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "d6zbx2r7::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "64fadcb44014c84ab66f6d757b6a3f7366aa630eb54fe03b17790cc0af9a9177",
+    "response_source": "rag"
+  },
+  "dbhfnvi2::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "dbhfnvi2::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "0d689c3a8acc93ce5487ca55bfd4a5b98cff2c6b58d86308981560e2fe42ad0d",
+    "response_source": "rag"
+  },
+  "dc7zzomp::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "dc7zzomp::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "8b4b5d51b0ebe610ae2b2c5f0f2a772ddfe27d35a8937df1165ab86635f3c26e",
+    "response_source": "rag"
+  },
+  "df65w0lx::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "a985e8aba6b73e642eb35c911f5dc86a3a6915724cceac8bad1518d96a911e60",
+    "response_source": "rag"
+  },
+  "df65w0lx::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "4d69b0976154ba84dff28f4d256c5020042525a5612d3b2e6fe0d87b62c62e06",
+    "response_source": "rag"
+  },
+  "dxh2axte::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "3af2aafcf801bb143a401a38a0db15bea01887b7807f4cb5ece46d659d51e1b4",
+    "response_source": "rag"
+  },
+  "dxh2axte::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "f78bd4edc8bcfbcbbd65e0f3559badb987e79d7902b236a92f4b4d727ec880ad",
+    "response_source": "rag"
+  },
+  "dz3lbrx3::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "9c915b59773b981e599cfa182725c6b1a94e21ec0c52f311721791e3f8e82569",
+    "response_source": "rag"
+  },
+  "dz3lbrx3::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "c6a138247a8696b29487f9c3f9f11b1018bba924dfed9133ebd153ef99fbb021",
+    "response_source": "rag"
+  },
+  "eiwcd189::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "5ad353bc93b37bff4faac84f2f7e8c689fced2bc4e67b8b8a9edd44b4dfb5fbc",
+    "response_source": "rag"
+  },
+  "eiwcd189::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "352885f4af7cce3b7354568b9d31d353fc94c2bee41b29203bb0be6a6ae536d9",
+    "response_source": "rag"
+  },
+  "emtc94w9::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "e093a104c99a498be3a94d14360c88703e53d9a3878a6a27f71af2bf7d938ee3",
+    "response_source": "rag"
+  },
+  "emtc94w9::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "1323627516c81948ab2751d7ebb05648bd4ae342c533a2b2617c40ff502ce9cf",
+    "response_source": "rag"
+  },
+  "en5bo5hu::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "3c70abb26144bef656a0888d57f268f13c88e6942f7ebdd6bbcfd601f1f955a7",
+    "response_source": "rag"
+  },
+  "en5bo5hu::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "e4f59d5efc76948545fe5de6bce8be4ecccbc57af519291d0201887f047bcf4a",
+    "response_source": "rag"
+  },
+  "ep795pil::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "8f4585d6df213fa2f8a87134959b334443bf58d00072ef53062875e82f2e54a7",
+    "response_source": "rag"
+  },
+  "ep795pil::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "24362b4d5337e992f3f7a2ea5843bfa77c483a4ff4695b2a23e4eb97070d7cba",
+    "response_source": "rag"
+  },
+  "erf6nrib::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "erf6nrib::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "88329e191e4cf8009b8de608d7bd94778ce0ccf2be5ca01e6807c98aec0484fd",
+    "response_source": "rag"
+  },
+  "esg72lpv::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "b04ba65ae668522515fb9e67dbb4bd72586d767161ce7004a880509583ca4254",
+    "response_source": "rag"
+  },
+  "esg72lpv::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "ewrwk890::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "676a1d37f13106f5a789b086ec9b7a119b503e8bb91d2f73745a7c95685d50b8",
+    "response_source": "rag"
+  },
+  "ewrwk890::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "44f9429b9e2aed5f83c19a031dde0e08f71f023d0bd6c9663e92560a74a4b526",
+    "response_source": "rag"
+  },
+  "f9fhov0y::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "f9fhov0y::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "fbe8nh8b::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "5ad117fb8c80a73e142e47aed92eb1aa58f45e11508da4936a9e31d606de0428",
+    "response_source": "rag"
+  },
+  "fbe8nh8b::perturbed": {
+    "no_doc_response": "I do not have enough",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "4bee182074f3dcdb74b483eb271de6ffe5019d9929573197fc7f7dbe280b2eb3",
+    "response_source": "no_doc_fallback"
+  },
+  "fmnij1ta::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes, the statement is",
+    "request_sha256": "9bd9043c1680af4171e3d1abd1bba3c77a3e8658e4d8e959145eb075515ed9b5",
+    "response_source": "rag"
+  },
+  "fmnij1ta::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "cc1b02e5940ce6e80fdc821c3b3065676d695c3661cf28f99cb90202ab9ebef5",
+    "response_source": "rag"
+  },
+  "fsu060qc::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "66e1f38eb2f969f3826cf70a3807dc1e6b91f90b76f7c06091dc505568405724",
+    "response_source": "rag"
+  },
+  "fsu060qc::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "0378830e979a725e5c1497eab74d67c052c73b4a66e3107b0e11026b7904feb2",
+    "response_source": "rag"
+  },
+  "fu2hwdr7::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "5cde073538a0f085e78a490a3a998f6e937bb4291a470798f7ab8eab2f9c3669",
+    "response_source": "rag"
+  },
+  "fu2hwdr7::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "5861ce815189ce54f1bb0cc17ab2fe4e096caa194284071ab2b905c9d709bec2",
+    "response_source": "rag"
+  },
+  "g73a3fhz::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "c990f2879b912821dd2cab248996c362de2c6c035b8e2b69fc0fa1ed150d4455",
+    "response_source": "rag"
+  },
+  "g73a3fhz::perturbed": {
+    "no_doc_response": "No",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "4c518093a1ca0710efebd1c6d5384d0a1c47355b71c3371355b46c56e3a1dc01",
+    "response_source": "no_doc_fallback"
+  },
+  "gjttr082::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "c72184b21db58356867829f61f1bdeda7f0ff1680810123ac0fb6962a8f93ccf",
+    "response_source": "rag"
+  },
+  "gjttr082::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "f69c11e7ad56d82cd90ed9493d93c1c5ca8d6a03ed0f493a63e20957f95ebe39",
+    "response_source": "rag"
+  },
+  "gtlj06dl::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "d5c7386cd3e2cb702057642cc960560b14ba3f402df60c9ba8d6f8648d3fff7d",
+    "response_source": "rag"
+  },
+  "gtlj06dl::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "659e10a9525e1cde9d7c2aadd8ccb359f8937f19436d10445d40bee636f1c1ba",
+    "response_source": "rag"
+  },
+  "gvxuz8jt::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "ce99c47c278160ee8af48a93c4fc837c91b7f1f0a86031ba9def1d14e8e7434d",
+    "response_source": "rag"
+  },
+  "gvxuz8jt::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "gxl8ttlx::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "e110ba41a96774ecfc24dbe4ec2bfd450b37648227e7f0b08d6d2d0a626eacf0",
+    "response_source": "rag"
+  },
+  "gxl8ttlx::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No.",
+    "request_sha256": "a705e6c5c88f89597d030b923ee553045e8d7aaf937eb176349c0247dee68783",
+    "response_source": "rag"
+  },
+  "gy138l9b::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "302b9cc1192a08dc422611812eba281b50f5ecd39401d0621c1441d1cb6aa45c",
+    "response_source": "rag"
+  },
+  "gy138l9b::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No.",
+    "request_sha256": "e89b352bd786f6a52857c8fc9e047b71fdb3f6d59ed191530caf1f7c9030f123",
+    "response_source": "rag"
+  },
+  "h0d6pv0d::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "h0d6pv0d::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "454bef7c4e55b84e640b91950956b93dcb473ea0227ecfed5f5f2cd10679036f",
+    "response_source": "rag"
+  },
+  "h5rewhil::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "5fdcd1f56f375b34ddc34d7a91d495da9f41898c5b53f6d2e666b06aa45dd9d5",
+    "response_source": "rag"
+  },
+  "h5rewhil::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "7640619a266e90124f4f5506ba68359439b887430e97cdac5149863703d74840",
+    "response_source": "rag"
+  },
+  "hi7z3nob::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes, health care workers",
+    "request_sha256": "8e8a67e6d173898d648e2d22b9ed36dc6aff5fcdf5fe89758df5b8cf82990e40",
+    "response_source": "rag"
+  },
+  "hi7z3nob::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No.",
+    "request_sha256": "5b28cba941ea356838f232d507539bbaeee52200762c1550ddb195b26f13b035",
+    "response_source": "rag"
+  },
+  "hj2b1wc4::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "hj2b1wc4::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "ffcf24dd19815f78dbffc772b68ef5a912e8166fbc635f72d10fed4d3e53e792",
+    "response_source": "rag"
+  },
+  "hrq3nsit::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "hrq3nsit::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "a7a12e9dbb4a0736a130ff95d6498bfcc6518e23af8cc1ced8ee8f58dd0eefa3",
+    "response_source": "rag"
+  },
+  "huipxfq8::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "59940a2547784dda8a506aea9382d01c9ed3827af9219e451bf15654cecbc435",
+    "response_source": "rag"
+  },
+  "huipxfq8::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "e705d48620497c71d635fd2df7e82ecc126355cb298b101f10537ba160207bb7",
+    "response_source": "rag"
+  },
+  "hzk0uy1b::original": {
+    "no_doc_response": "Yes, I am here",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "1dcd34a7e9c694ca5f145b6158e4548981114af18f1e4fa97363e895e8f7507a",
+    "response_source": "no_doc_fallback"
+  },
+  "hzk0uy1b::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "56f07592e7fa6e62c0bf8239d8173dff51eba68be72d7ab35a3f4c518de510cb",
+    "response_source": "rag"
+  },
+  "i259tfyr::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "d747505a5d67714fa2d816fc495a2c678a2e83d9e2a1f966b23d63527d58125c",
+    "response_source": "rag"
+  },
+  "i259tfyr::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "436745bb1e59ae6c1dc6141b03ec9dcca82339916d33a209f54ef29380d3af70",
+    "response_source": "rag"
+  },
+  "iax2mm9o::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "05c441b1d91df4b9e4069c4efd37eb3c59916e0e5823ba65533c1470aaa9867c",
+    "response_source": "rag"
+  },
+  "iax2mm9o::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "eec27a6d220d01eb890d6e6b834795798b3870018ee41e885a726d249641d176",
+    "response_source": "rag"
+  },
+  "igqnv64i::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "d56587c4d24f0f2dcd10508d2710aa63bbe216fee452b3f66f7ca53138efba8d",
+    "response_source": "rag"
+  },
+  "igqnv64i::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "ffd73b138bd88252ad3aefdaa5ad9dc080d0a8449da54bccd794b6aa7e24436e",
+    "response_source": "rag"
+  },
+  "ihdgc1yz::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "f883c829a527caf36dba22f8c84dc9c2c0e4be35dc977be83601bd8f00193b3e",
+    "response_source": "rag"
+  },
+  "ihdgc1yz::perturbed": {
+    "no_doc_response": "No, the statement is",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "4186d28272d899b7d55a052e1c1153e42fee40017b16829244405d99a9209469",
+    "response_source": "no_doc_fallback"
+  },
+  "iswxlbhb::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "9c915b59773b981e599cfa182725c6b1a94e21ec0c52f311721791e3f8e82569",
+    "response_source": "rag"
+  },
+  "iswxlbhb::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "3dfd4f3217bb5cdb8812ed9a7d04f911bd0ed6e9ed766932fd3af24d34edc6e4",
+    "response_source": "rag"
+  },
+  "j2lv6ztr::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "ad4919e669cf71b76f8f6755feb98d9636cb3d517e04413c1e4245b6a17853c6",
+    "response_source": "rag"
+  },
+  "j2lv6ztr::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "88ebf00453e8c37ac2b02ea85ba7c64f9a1294399b726f8edfc9470c985eba77",
+    "response_source": "rag"
+  },
+  "jbhu2whr::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "4196d556d6cddf9dc72d7f11090bd05776d95916b83f5bffd51bcfb52a28ac10",
+    "response_source": "rag"
+  },
+  "jbhu2whr::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "c991696e1ec4ee60f872dbde62d0c4f1a58f9b4ab7fcd58431b47c1af95d4ca6",
+    "response_source": "rag"
+  },
+  "jed9chxm::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No.",
+    "request_sha256": "f180dc184a57a28617841b24fe1ebaa560beb1f8e411749e59f3ca8c21e47089",
+    "response_source": "rag"
+  },
+  "jed9chxm::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "d6043933b7a3de8b31491772ff7f66746889828a92b6a493016e449cb019ef08",
+    "response_source": "rag"
+  },
+  "jgjarfvg::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f58841e876a233808a9924e6ddc18eebe3475be89c0e8e3f5e2ac4a7d8c2b0b",
+    "response_source": "rag"
+  },
+  "jgjarfvg::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "a4f7ebf37d8cbeaa6819456bb53810c0e28117c78592991cc83143f74b705790",
+    "response_source": "rag"
+  },
+  "jj9n8o7b::original": {
+    "no_doc_response": "Yes",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "43ae9daae90c418487dd1e2098a6040fe598d7da9b52ecceedaa3bf0e2779873",
+    "response_source": "no_doc_fallback"
+  },
+  "jj9n8o7b::perturbed": {
+    "no_doc_response": "No",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "211bc925b31a94b2bb020a163984422076f4a5e75cf7c31cd2a3805d89c163a0",
+    "response_source": "no_doc_fallback"
+  },
+  "jpu9dpp0::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "1e6ba4bf94069f62275a12f7e555b43ce8d33cf63241ffcf72c0cfd21ab2c71e",
+    "response_source": "rag"
+  },
+  "jpu9dpp0::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No.",
+    "request_sha256": "1d4a815360dce6a7d7e4907f76c2c03f0c264dfdba417a1d31d5c5b1a264aa72",
+    "response_source": "rag"
+  },
+  "jrpgelsz::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "16c58d404793a60c244b276a08b38464d2f080c61944d19641d2d4e9f891661a",
+    "response_source": "rag"
+  },
+  "jrpgelsz::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "f73879f31f6f1fcc6b0c6f1bfaf20c4c1834a999b4d1fb840a2b80167f95475e",
+    "response_source": "rag"
+  },
+  "k36rymkv::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "ec2e3ac22158e663b5e3d9c88de8015a9308e51907bb63e590171e3b481dfcf6",
+    "response_source": "rag"
+  },
+  "k36rymkv::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "615c22152a9a14fb4e0cbe4a3f364b4b3a03606b7119a371592b619aad1774c8",
+    "response_source": "rag"
+  },
+  "k9yjwnmt::original": {
+    "no_doc_response": "Yes",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "2c92ef06ca1a275e24039cb44965a4dd1a1c8e89c0059ee6568364c8c63c05b7",
+    "response_source": "no_doc_fallback"
+  },
+  "k9yjwnmt::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "e3c995d0476a0cabda170f85ac50b6a6e7ef02874d82b7739bdf7b7c8ace6ca2",
+    "response_source": "rag"
+  },
+  "kbd2h4l0::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "cd82d8eff3cd7db79f8230d3152f6a406bc0340cdb7358c7c25bed93ab6c4a5f",
+    "response_source": "rag"
+  },
+  "kbd2h4l0::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "61ddc1ba5490e82c7db5f726d569bd1076779a5c388036116387bb0bea7584d7",
+    "response_source": "rag"
+  },
+  "kp08ecjl::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "119e654de8f6baad9fdda381d22d6f8f410e89f451eff567dd9ad347495a682c",
+    "response_source": "rag"
+  },
+  "kp08ecjl::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "c2e8e643426341ac1a9018b819bf08a882dd6ed96e5f63fcb4d2420171f92cef",
+    "response_source": "rag"
+  },
+  "kpey5g4v::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "8b99fa7c7bd6cfcdb09051503c87c706f2575f6161971f3c8bef6774f396ebb0",
+    "response_source": "rag"
+  },
+  "kpey5g4v::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "a248beaf27ef28365d11192a8990199be6b2d62cc320716b97771367c69d0aef",
+    "response_source": "rag"
+  },
+  "ksbnaqou::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "ksbnaqou::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "3722f684d91d7308c504e820ed36649d2f8ce32ebfdffab45f6b36e9b291db88",
+    "response_source": "rag"
+  },
+  "le6ylvqh::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "0495462ee96d62a1991a527d29c45afb1d3feefa9f03e43e74ea4d1c2b418eb1",
+    "response_source": "rag"
+  },
+  "le6ylvqh::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "925065ba5a7ec119c3e8ae93da3930263a078ec6c0af684beee64d24eea313e7",
+    "response_source": "rag"
+  },
+  "lexlai3m::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "64a6f1fe53c7f08cadf8a42eb5b810f360684700e0f58bd4485b1592bd5c6b38",
+    "response_source": "rag"
+  },
+  "lexlai3m::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "8c8ebf6ecfdb0d19a0f3678d390a7093f3125c9129a303ca381143668286df68",
+    "response_source": "rag"
+  },
+  "lfiemurn::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "9f59c652d6ef092336c6921362b295b8e2847146b3ba94653fba7e89276385cd",
+    "response_source": "rag"
+  },
+  "lfiemurn::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No.",
+    "request_sha256": "195689e5bc4c897be9edf4a12ced6db607dcd6a01fdbfbacbefceb0d08cc7408",
+    "response_source": "rag"
+  },
+  "lvpay8il::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "770d9dac7ed78180f5f4d3279d7efb2b545cd781e04cc60790c229417fa3a836",
+    "response_source": "rag"
+  },
+  "lvpay8il::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "60529cbd366615abdfdb1fee3da0f21e5e480819128eb4ef142922849d142feb",
+    "response_source": "rag"
+  },
+  "lxwq5c7p::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "303d4a2d26f878276e31d45fc89ca37759b20885b987804ec3a7713d55e7a398",
+    "response_source": "rag"
+  },
+  "lxwq5c7p::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "a061f0dc5d408dd5b1027ce73ba06794d4bcf83cbc0344243c9e293a29e1f458",
+    "response_source": "rag"
+  },
+  "lz5uldds::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "873c4196309b6919dcb5b7a9a5c7767fc59677637e0623b08062f7beffb186f5",
+    "response_source": "rag"
+  },
+  "lz5uldds::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "c2c37ee727daf6d2ea5affafbe218b7148cf5b0f624a26f5148b810823c55e7d",
+    "response_source": "rag"
+  },
+  "m01mvy4p::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "e9ab7cd7cf6c6f840fe0fd07205bdc96d99464a0660b7ebaa28b0d1ccdd22bd0",
+    "response_source": "rag"
+  },
+  "m01mvy4p::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "0f9002b2c3001981a339295be353eccb6dfdab8ba2b7ba2139b55b4492db7e1d",
+    "response_source": "rag"
+  },
+  "m0h9zv4i::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes.",
+    "request_sha256": "8a81ee534c8849c26e00a2b85422007795fb5ea3cbe74e4ff9778e91a5740f21",
+    "response_source": "rag"
+  },
+  "m0h9zv4i::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "9dbdaf512fe1fd0b2bd109db88c9b6ff00f1763881e4575ea9b1f439e12732a6",
+    "response_source": "rag"
+  },
+  "m1p0ajfd::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "c186aecb772696f40615ccc66a500e5bfc49436ed1ddd0f32e4a8f4e223474bb",
+    "response_source": "rag"
+  },
+  "m1p0ajfd::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "cc24146e313202525ba0a315305efb5ce2808f1084a8e5e6f2719e3f7e47ab87",
+    "response_source": "rag"
+  },
+  "mkmrninv::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "bd4ca0307bb528504da737a1256a525338faa3ede3799bbb0e607138e86553b5",
+    "response_source": "rag"
+  },
+  "mkmrninv::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "93c96512dff5d418abc39ce6a0b27a66d3c83fcb2cd2eaa2958e127138476bca",
+    "response_source": "rag"
+  },
+  "mmd8ru3r::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "ef3851c59eacd322e20d000d4dcad31b9014f87df9b5b9cc98c9bd017ce24837",
+    "response_source": "rag"
+  },
+  "mmd8ru3r::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "cdcef4e4c23cab063326bbccf7bbeec6c96fac5694cb88e589da7591e64bc3ce",
+    "response_source": "rag"
+  },
+  "mmet7798::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "ffcf24dd19815f78dbffc772b68ef5a912e8166fbc635f72d10fed4d3e53e792",
+    "response_source": "rag"
+  },
+  "mmet7798::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "b2c3fce5f8afdb5927d7a7effc84e5164b84f8606015c2176b23139e7ef8575e",
+    "response_source": "rag"
+  },
+  "mrei5kih::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "f4d6d540719e1d63c0ae99d5b23365f594ef3c8f3d843be523416e43c7816ab1",
+    "response_source": "rag"
+  },
+  "mrei5kih::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "1ac84d0ed65db06ee34c1a9a3548c28f0eaf4ca4ef879546e84da474c9e500d6",
+    "response_source": "rag"
+  },
+  "n56pwac5::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "56e394037544fdf989d3fb64d709464c064c366fbbcf91de1b8459c9300261c6",
+    "response_source": "rag"
+  },
+  "n56pwac5::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "828ed34b0ed35c07e5538c12f7841a8f30c121aafee2228d253e5ed588ed53bf",
+    "response_source": "rag"
+  },
+  "nlnl0u3e::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "03eca04f41bb8cbf2e88812f63d10cd8ab746cc5bedd20f24c51e7f2460168b7",
+    "response_source": "rag"
+  },
+  "nlnl0u3e::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "574b89adc5f9d5511bcfa2427d7af1dcd2714c4f0e91bf15d1b5ebb52a70bbc1",
+    "response_source": "rag"
+  },
+  "ntg7b621::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "ntg7b621::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "fd849df09da11e713927ad528cb7a893e0c6ed02025e6675aeb4caaa092ec2e9",
+    "response_source": "rag"
+  },
+  "nw6si409::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "57e6a38f7c8f21d03ae8f4c3095f509ed651681ac8cb28311c7ef1b4e4207674",
+    "response_source": "rag"
+  },
+  "nw6si409::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "1ebc1cd43d0ffec74a084d1cb4b3fe3b07fe838bc3c251e7880d2ec9c4dee3d8",
+    "response_source": "rag"
+  },
+  "nxic8gu5::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "07c47d2481b721a119d5958fe57b56d3bef7555e94840cdd857df6582b3fc4ea",
+    "response_source": "rag"
+  },
+  "nxic8gu5::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "2873add3cfa07fbcaf3e1eecbdd1850e8cc1b365e420f930a6e37d6488b7aaf8",
+    "response_source": "rag"
+  },
+  "oep1xka4::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "4912abc14232e7915585873af97e70b125145a1650ef1094edbbb50ef84841d7",
+    "response_source": "rag"
+  },
+  "oep1xka4::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "oscbagdq::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "oscbagdq::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "ou1l69l8::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "cde5c904238cca2fa83fecd3dda773359a4b83f91568923bbbf7788437e4d10c",
+    "response_source": "rag"
+  },
+  "ou1l69l8::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "51267df0888a317f5a6c5e3fcf88b6fe2a658576158a890a44a4ddcc59bead2f",
+    "response_source": "rag"
+  },
+  "oxahu8nz::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "99f92fc5da47debff8970a26cc24baee3a96e3d7d668f79f841df1ed4f640653",
+    "response_source": "rag"
+  },
+  "oxahu8nz::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "71de02a01a6c87b4b1d1668ded0a2c09184f42908fc0b1f63eeb6fff27887762",
+    "response_source": "rag"
+  },
+  "pgxxkfc0::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "c1289c1f66206a9db3ec07eaffa5979c7ecf76d31116b3a3f54958f5b19420c3",
+    "response_source": "rag"
+  },
+  "pgxxkfc0::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "e4c4a5fffc0480c1de914df793d9709a6aaf0cdbb1cada3f3c9061e136e6d1ad",
+    "response_source": "rag"
+  },
+  "pxjlgdb8::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "87841287d9a1165a7b9c8dbd84ee7acb05c9ec76c7984d1d8dcf4c32cf91c3a9",
+    "response_source": "rag"
+  },
+  "pxjlgdb8::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "9b7a3721ff2c0e400d7dc635eb8f2c9ea5d864c1b710eddc3715524c9ad64ab3",
+    "response_source": "rag"
+  },
+  "q1jul7zb::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "c6d830866dc803462828bca733c0130eccea88b8210b4b9b6edbb3cd6330ab5d",
+    "response_source": "rag"
+  },
+  "q1jul7zb::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "d0c3577647c6fe9a70dfc39ff0233bf6a16d986612d8467c470a5de209a2e0f4",
+    "response_source": "rag"
+  },
+  "qsrqrz8w::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "cb2dc52b350c01619d69b78c56a0c240c852dea1472a99d6b71fc10da4cb83b8",
+    "response_source": "rag"
+  },
+  "qsrqrz8w::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "d805f5315ffc294aaff9c243ba9fb05ec048eb82cf17b66857794faee754175b",
+    "response_source": "rag"
+  },
+  "qtkwciym::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "d73ef89f646b58e8f0268163d86bf4d85b93331ebd7724db63da89de6ca6282a",
+    "response_source": "rag"
+  },
+  "qtkwciym::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "b800ead47a4cf9630d91cacda25759c3b81222111984896fc5ef35dae4bf7284",
+    "response_source": "rag"
+  },
+  "qyd6qyjf::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "0d925f4e9e10a153e1f60548494d817ba64aad80555033b2215eb8bdab491b0b",
+    "response_source": "rag"
+  },
+  "qyd6qyjf::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No.",
+    "request_sha256": "a3b5374d694b1abccb1a5c9e9966db030252b8f6bbe66849efb6f243ead2bd49",
+    "response_source": "rag"
+  },
+  "r295gzfp::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "72add435144becf525e4e07051d611e89f3a96685c518fe27d36c8f8b9fa584f",
+    "response_source": "rag"
+  },
+  "r295gzfp::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Nitric oxide (NO",
+    "request_sha256": "aaab3ca591e924d790fc2c67f669d712a901571c2a7ef8639117fe606ee5399c",
+    "response_source": "rag"
+  },
+  "ra193qmh::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "a051b7f5ca09a572f5e317a4a92ba366f711da0f223aa16a96c1d068c845da05",
+    "response_source": "rag"
+  },
+  "ra193qmh::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "8ecaa7deccb585f0e32b91d928db851d7f4a6b6d5b54be33d510455789b9f4c6",
+    "response_source": "rag"
+  },
+  "rhhx5gcg::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "rhhx5gcg::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "d6043933b7a3de8b31491772ff7f66746889828a92b6a493016e449cb019ef08",
+    "response_source": "rag"
+  },
+  "rhkg7gnb::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "f4008b9feb7db812f35a7b6c6a24e95972b9da3f69f44b5e2b3b8760416c0bff",
+    "response_source": "rag"
+  },
+  "rhkg7gnb::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6d57060358c0fba47b4f6209d75b7349d8c4bc5ec091742067ca0229b9877197",
+    "response_source": "rag"
+  },
+  "rhwfqjqc::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "rhwfqjqc::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "ecf678ae40166ebe5d1a5a041c5309542ec77d3246e50489a6e680bb72897019",
+    "response_source": "rag"
+  },
+  "rkx9vtu2::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "88d1fa5ba551d80fa97f1eabf33cb4d8e7ebaecd8e71c78056029a2f9f9c9d7b",
+    "response_source": "rag"
+  },
+  "rkx9vtu2::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "9cc55504d4bc40a1dc2b9c68230368ee82709a2092a271e957672f3ccd82b345",
+    "response_source": "rag"
+  },
+  "rogv6xtv::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "eebfb8e6292f79ee5af0219e8ec5b1122f5ab07b4485b82ac25cdcbfc9f1b064",
+    "response_source": "rag"
+  },
+  "rogv6xtv::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "rt0vm0cm::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "fe8a671e801d568287dde2cdbc6cdc2566164f5b0d664bf47012a705f574c87c",
+    "response_source": "rag"
+  },
+  "rt0vm0cm::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "814e1e44b36b053681e557c2c5cffa1a1270afd921eddd43efaba23f7e84748e",
+    "response_source": "rag"
+  },
+  "rtedwg3f::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "2df23935c8e9f5c19451a7f2f33ade3227ef20e64288b0f8767743c458e74d8b",
+    "response_source": "rag"
+  },
+  "rtedwg3f::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "9fcb8c995550b6c40bc9481b1e874d0f46738b78ede01968e31baa4f2241eaac",
+    "response_source": "rag"
+  },
+  "s5mcgocf::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "1ed8fe4e5926c85838007b66afebfdbd949d2c63979a4f0906d83af5be685825",
+    "response_source": "rag"
+  },
+  "s5mcgocf::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "c6996d6b695c215d779cb54a748152fdb3c5b9f2041abd7503e49d2fef653d5f",
+    "response_source": "rag"
+  },
+  "si9vgamw::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "si9vgamw::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "sn8eaocw::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "75311b5d60f0c9b6d98ff7e8866510e1a133c1684afd3b7c633003565144b907",
+    "response_source": "rag"
+  },
+  "sn8eaocw::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "460535e451e1bebc3d75d6cf1dccb33648b27a5fd2d465127b5e9fee1741f39c",
+    "response_source": "rag"
+  },
+  "sok56yga::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "78e0f2496c256efdd5b15ce8793e2823cdff0e93fe75508a2027ef60b7063c69",
+    "response_source": "rag"
+  },
+  "sok56yga::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "c7700fd4f9eff1e39ab4b35d5e533535d0ed209a7145a135ea35c1c048515319",
+    "response_source": "rag"
+  },
+  "sx001m2a::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "cd82d8eff3cd7db79f8230d3152f6a406bc0340cdb7358c7c25bed93ab6c4a5f",
+    "response_source": "rag"
+  },
+  "sx001m2a::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "644f3ff810ac639ad613cf74fb70cca88ee4ed961983ceadb03983dd862d1a02",
+    "response_source": "rag"
+  },
+  "t4cff7ax::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "b93408161ea769e0b0ae8752df3c42e2e262967f216ad9803044163b8b1732be",
+    "response_source": "rag"
+  },
+  "t4cff7ax::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "bfb496a32fd1d35717454baf78253fda429518b3807f5ab00c64cbaa6ec83c98",
+    "response_source": "rag"
+  },
+  "t5i9scn3::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "3c5284cc543556089c8661dc51730f15ebb952f920b2ac5d96d93f9b4b697fcb",
+    "response_source": "rag"
+  },
+  "t5i9scn3::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "e0bb6a185003abfb15f852228d13aeb9ccb7d173d9523ce0145ebaf31d3970b4",
+    "response_source": "rag"
+  },
+  "t98cflbk::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "e94eaec7f2ccea7ca5f52bcced6707dfe5bd0d84cb6e74935d32d53b90ed1dce",
+    "response_source": "rag"
+  },
+  "t98cflbk::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "81a59c412b258483ed93621112a4e54e6da2db4198af46adab3ece31fb51694c",
+    "response_source": "rag"
+  },
+  "thourfdj::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "aa31f7ab3520243dcb8a5e789831aa51b3625cd3e3ea731cbf93a270636de4c8",
+    "response_source": "rag"
+  },
+  "thourfdj::perturbed": {
+    "no_doc_response": "No",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "20d0df63586625f0bf1de70f24b0cc0dcedb162a82627b97d9f94dbb3b4abf7a",
+    "response_source": "no_doc_fallback"
+  },
+  "tk3861u0::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "f824a4fdb2c2918bd8d9e265cd8b1ff0fe21bbe9717469c4692b91a52d9e43c2",
+    "response_source": "rag"
+  },
+  "tk3861u0::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "3af1da86b760243ca7906dc8d7d7d4e9c4df001566c85cefd1c23f14a0b9a5e1",
+    "response_source": "rag"
+  },
+  "truzivy4::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "5a35366db0f0fb7f880f5227c309d4b7a4c844477272e6a8a7d99421914d193e",
+    "response_source": "rag"
+  },
+  "truzivy4::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "13054275e68868dcfe3f02c170c321f822259277b97d6fa097b9a4d48ec13a00",
+    "response_source": "rag"
+  },
+  "ufdgi67q::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "9c915b59773b981e599cfa182725c6b1a94e21ec0c52f311721791e3f8e82569",
+    "response_source": "rag"
+  },
+  "ufdgi67q::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "9c49a8d714f2c00c64aa5fc089d74af99e4131ee552cba418ef61021ee7a5dfd",
+    "response_source": "rag"
+  },
+  "ux82v93d::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "6c407efc00a4f125028f08cdef224ca07f0400f46a239da56927bed70621dbb0",
+    "response_source": "rag"
+  },
+  "ux82v93d::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "3708966cce602e4b21f4390528fc644b1f0634b31a341f24141236c415de0471",
+    "response_source": "rag"
+  },
+  "uzfbnw1k::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "d213f144c0ff32d623c31193b1976371d7fb291376f9997a050e979e80b8e743",
+    "response_source": "rag"
+  },
+  "uzfbnw1k::perturbed": {
+    "no_doc_response": "Yes",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "f4008b9feb7db812f35a7b6c6a24e95972b9da3f69f44b5e2b3b8760416c0bff",
+    "response_source": "no_doc_fallback"
+  },
+  "v3ghtxfg::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "cd82d8eff3cd7db79f8230d3152f6a406bc0340cdb7358c7c25bed93ab6c4a5f",
+    "response_source": "rag"
+  },
+  "v3ghtxfg::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "729bad406e5ec7a0c8306f4de9b2a8ef700ba061b45b7ffe45d22589d01dfb85",
+    "response_source": "rag"
+  },
+  "v5avfe7l::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes, the statement is",
+    "request_sha256": "98a1efd7edfd5ea03829e3e7afa23e3c7f4dd674842c94d0092ec6d0cc2b7841",
+    "response_source": "rag"
+  },
+  "v5avfe7l::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "9456f43d59d085dd7417dded3dac00d888bd4b000dab559a201fb78c0c717716",
+    "response_source": "rag"
+  },
+  "vif03pcz::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "cdab97d1674b494f1331cebed5c41726b1d18bed0dc018260130fd2b652753d7",
+    "response_source": "rag"
+  },
+  "vif03pcz::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "2382a30616798e59bf4631b767a664dbf34b90c4910745e2f126f37b463b5572",
+    "response_source": "rag"
+  },
+  "vjlas8v1::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6945f22b28698f5149fc97f776441e989e9dc0a5fe3cc125d37e9efb2d5244aa",
+    "response_source": "rag"
+  },
+  "vjlas8v1::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "be2ba7287b6d8e31e55712cef5bf3966773c1c173c1e08aebb35203964fc557f",
+    "response_source": "rag"
+  },
+  "vlpdirjs::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "f69fc3fdd6900cbfeb6f2f80c5535ed1b7053438a5fcff33f598238491d0a4c3",
+    "response_source": "rag"
+  },
+  "vlpdirjs::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "52bfd8bbe9f5c29f1ea6d4c2aac9eeb129e69f4256556eb6fcd6a9f11bbdf00f",
+    "response_source": "rag"
+  },
+  "vlse2pzs::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "d3fbc8931f3460c0b1b6595a4927b7e307f826f4ae2991458263e5f139072f3d",
+    "response_source": "rag"
+  },
+  "vlse2pzs::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "4b66066d2de77e92c9ef93a2e417080cca1e4ede34b8d29ed603008b45249d22",
+    "response_source": "rag"
+  },
+  "vwq7l4hn::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "cd82d8eff3cd7db79f8230d3152f6a406bc0340cdb7358c7c25bed93ab6c4a5f",
+    "response_source": "rag"
+  },
+  "vwq7l4hn::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "1f30b9359969fe4487ff0e55b5936d83c04f3cf8af2a2ad03649c04616db68df",
+    "response_source": "rag"
+  },
+  "w61sqy17::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "w61sqy17::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "3a4a4f915927d74e143442f4dec48ddd242c83ca64d41f14dcd91c41682a2a5d",
+    "response_source": "rag"
+  },
+  "wjc7obpu::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "c0c46209c577212e00e74389d119245ac90947f8dcdfa18e6196ffe758b896c7",
+    "response_source": "rag"
+  },
+  "wjc7obpu::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "a0ce75d7c5a61aa409147dbe7bacdcc4e9196992f522f4ed01c7a4f12ca79956",
+    "response_source": "rag"
+  },
+  "wnocuxi6::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "96a72ad5f9d3ab67e162bcd6445753c9a823158935141b0983a332a3361d2447",
+    "response_source": "rag"
+  },
+  "wnocuxi6::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "b9ddd0da0dfe66378ba537fbbe6ad6e6f0745dfd11338a1b823b3ac4da6564f8",
+    "response_source": "rag"
+  },
+  "wop4qyej::original": {
+    "no_doc_response": "Yes",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "b0980f5995752559b7a4f3cf315dba0c960af1161424cfc45b2cf9f85ce54c05",
+    "response_source": "no_doc_fallback"
+  },
+  "wop4qyej::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "028bd970977d80b85c33e710a44459edbb81a0d5d89334d77cbe348934fb6d00",
+    "response_source": "rag"
+  },
+  "wrszeqwa::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "fdc778ad11d148040e3167c73e0ccb0137e2918dda166229026888f508b283ea",
+    "response_source": "rag"
+  },
+  "wrszeqwa::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "5ab8351b3d373f4dfbde3e44e0524fd33d4aa70f10fd47e153fb6c3dc919a281",
+    "response_source": "rag"
+  },
+  "x8jcy9ry::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "222ec5d6d8896dee077a2e58b0927876277e31c82eb18d45d7076935a84c7186",
+    "response_source": "rag"
+  },
+  "x8jcy9ry::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "93c1c101901f7eb43aed85530caeb92d45d78291059b93f9cc8213287fafe54c",
+    "response_source": "rag"
+  },
+  "xgczt523::original": {
+    "no_doc_response": "Yes, the statement is",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "e729f9db29a2b305105118c6261db56d08833233612b837207ab01cb25a8dfe6",
+    "response_source": "no_doc_fallback"
+  },
+  "xgczt523::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "8c26e93283f4872c3fa49332f74baaee589a542b27202bf95374ea90ecd5ec68",
+    "response_source": "rag"
+  },
+  "xog306it::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "fef893d903ae0ba884e33bea99712cbded5aa1a26887466fcc438c68b0fe65fe",
+    "response_source": "rag"
+  },
+  "xog306it::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "4772273734768452a6e1475f759f2393454f202eeef63066013c37b4ca3b1675",
+    "response_source": "rag"
+  },
+  "xs55np00::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "4f60b4cf544ff63c522bef5ff2cf04566fa8700f5c3a83e44bf7d46e371daf61",
+    "response_source": "rag"
+  },
+  "xs55np00::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "02c34326a3df32ababf92f6451f51c50ec1b59cfd3a9c1c8ac17591b1c8fa14f",
+    "response_source": "rag"
+  },
+  "y4qdkod5::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "y4qdkod5::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6ddad102791944a2d34c7ed604c74d571e91477d6caf7ee691ec2291678e5309",
+    "response_source": "rag"
+  },
+  "yaz13ikp::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "111148040f63b0b78890e667578fc3185044fcc6f9171350c23dc38b49829a91",
+    "response_source": "rag"
+  },
+  "yaz13ikp::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "b795e1423354823c08b85f79f3049b406e951bca21a34a76d307b0a67c1bd537",
+    "response_source": "rag"
+  },
+  "yisdrpfd::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "378a35988267af157682cbd6d31860acb8959fe0bcc1ebb0de1c4bed39e55c46",
+    "response_source": "rag"
+  },
+  "yisdrpfd::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No.",
+    "request_sha256": "50f84209435017322dc462e28ed36e8ad4d6c2056c2e64e48fb3e6a089b7fd38",
+    "response_source": "rag"
+  },
+  "yp8jitqh::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "yp8jitqh::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "723fddb2d54ee011738c3e643d38bbc6a6525d291e1020a1e530d4a22cc7ff95",
+    "response_source": "rag"
+  },
+  "yu89n6rq::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "b064a6c8cadd59d37853797e21bbc4a85bd2c453ec328a66d85142d32de99731",
+    "response_source": "rag"
+  },
+  "yu89n6rq::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "78627dccc7f7594710847a5c3f13218f016e653c8a826bc5e5119689514935fa",
+    "response_source": "rag"
+  },
+  "yujybbrm::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "2e733e8c6dc942f131e68eac21fa1a0b58349cf47c7d49cb1a2afe524c5ccd6a",
+    "response_source": "rag"
+  },
+  "yujybbrm::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "150547a8f69433af921b9d629f7b6127830bce621f535001d1df37db6be51144",
+    "response_source": "rag"
+  },
+  "yuugwbfc::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "yuugwbfc::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "b80cdd9e8ba0161933772b0c079b1af1a5d2e27fac5a39cf326842a1a02e0ff6",
+    "response_source": "rag"
+  },
+  "yxh25jmd::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "69377eb8d6a14f420fc8ac7e6dc4a8680c44746be06ab799322a0d41d2e135f4",
+    "response_source": "rag"
+  },
+  "yxh25jmd::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "88ebc31a23d30997afaf615376365ab51a67622b783cea1ce3f7be465814b087",
+    "response_source": "rag"
+  },
+  "z0d1zsjc::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "z0d1zsjc::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "e6c2b3085dd945cccb0aaf63196baaf863cbc80fc0eaf3e7be88b18a750db9b6",
+    "response_source": "rag"
+  },
+  "z0et7kvu::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "bad2215a212e54ace5d8041a6551551a5f3c8b98cddceef701bcc8eb330f6390",
+    "response_source": "rag"
+  },
+  "z0et7kvu::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "dc884cee9eecbcec98b4adc783698c9806872222da8961052af6d7d3858ff684",
+    "response_source": "rag"
+  },
+  "zhzk7qqy::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "0f00947284114cb6d74360751f019ba7792237cac4a1bd690271152ce9db111d",
+    "response_source": "rag"
+  },
+  "zhzk7qqy::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "670766a1badab3fa0e4ea3d7c74afc7e600f17dcf831074592686efe9da8007e",
+    "response_source": "rag"
+  },
+  "zrzqdpxx::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "Yes",
+    "request_sha256": "8ca214efaf39dc95db55a526d686bf0c01b847a8c0891eb86c4c61fb15a5230d",
+    "response_source": "rag"
+  },
+  "zrzqdpxx::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "29584b520255fa2b384f955b0bc7ba2145505840ea7f0a29a1559d18095fc24e",
+    "response_source": "rag"
+  },
+  "zswddzm0::original": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "6f76222badca43dc34e6c8415d35aa91a477bd37d027de60bc54a6993b5f486e",
+    "response_source": "rag"
+  },
+  "zswddzm0::perturbed": {
+    "no_doc_response": "",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "No",
+    "request_sha256": "d6ed96e6ea4d6903f51202e0ac553c9ee1556566499122a28466459a8985a1a3",
+    "response_source": "rag"
+  },
+  "zuvwpyq7::original": {
+    "no_doc_response": "Yes",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "85b9432d87115af75c7d99ec21dad8f8f1b6b320678bb83bf63721e96f23ca04",
+    "response_source": "no_doc_fallback"
+  },
+  "zuvwpyq7::perturbed": {
+    "no_doc_response": "Yes",
+    "provenance": "live TREC-COVID/BM25/DCMI rerun 20260723T060116Z-1432911; exact per-unit response",
+    "rag_response": "I don't know.",
+    "request_sha256": "97d4663ac9d0fb6bef37748211c707cf75a10bc2f871daa800cf242a2d5cb5a9",
+    "response_source": "no_doc_fallback"
+  }
+}

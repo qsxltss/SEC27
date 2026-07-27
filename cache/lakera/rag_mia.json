@@ -1,0 +1,2602 @@
+{
+  "02bd620e30ea59106d0fe1d1e7d79c07e5f70acd9f879a145231b1ac25102e74": {
+    "flagged": true,
+    "request_sha256": "02bd620e30ea59106d0fe1d1e7d79c07e5f70acd9f879a145231b1ac25102e74",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "02db20f6066e2199bdcf171f3ecba162a6af4ef9d40d6b7dfcff76ab7937e633": {
+    "flagged": true,
+    "request_sha256": "02db20f6066e2199bdcf171f3ecba162a6af4ef9d40d6b7dfcff76ab7937e633",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "0321e27e466716fd2384e1c64c21ed67172f91b245c720e430913e787dcb8855": {
+    "flagged": true,
+    "request_sha256": "0321e27e466716fd2384e1c64c21ed67172f91b245c720e430913e787dcb8855",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "032ae34f9265bd445629804ffe0a4c64f0eb17ae7addd5b4c9c598afc34aa836": {
+    "flagged": true,
+    "request_sha256": "032ae34f9265bd445629804ffe0a4c64f0eb17ae7addd5b4c9c598afc34aa836",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "0359e854f21b2af378fdd3c9e7a0f568f29e603aeb72c9b45d7e43e5d213e6a5": {
+    "flagged": true,
+    "request_sha256": "0359e854f21b2af378fdd3c9e7a0f568f29e603aeb72c9b45d7e43e5d213e6a5",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "03e57e5e29b9b37eb7885e8cf9bc362cc4c69a570db8c525e6b521f5c2b884f1": {
+    "flagged": true,
+    "request_sha256": "03e57e5e29b9b37eb7885e8cf9bc362cc4c69a570db8c525e6b521f5c2b884f1",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "04818d7a3500957a97becedae22e21a4d5e0be0a40a40ac290bd273c1388f4c8": {
+    "flagged": true,
+    "request_sha256": "04818d7a3500957a97becedae22e21a4d5e0be0a40a40ac290bd273c1388f4c8",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "0485da767d63fda3fd5cfeba6c0ba4b398a071ff89d1031a1cdd62ebaa5c2046": {
+    "flagged": true,
+    "request_sha256": "0485da767d63fda3fd5cfeba6c0ba4b398a071ff89d1031a1cdd62ebaa5c2046",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "05a0a030c191620db9b7016efdc4071a2381ce452c0e1c0802a01607fe62a5f1": {
+    "flagged": true,
+    "request_sha256": "05a0a030c191620db9b7016efdc4071a2381ce452c0e1c0802a01607fe62a5f1",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "06477bc6959b190cb2ca8c61c6e3b7a0cec5d4d2240c7a4e50e206bc32bc7a1c": {
+    "flagged": true,
+    "request_sha256": "06477bc6959b190cb2ca8c61c6e3b7a0cec5d4d2240c7a4e50e206bc32bc7a1c",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "065bb122b991b4d6af327bfad70c0480d35d51574ffe8732695da38c586442ee": {
+    "flagged": true,
+    "request_sha256": "065bb122b991b4d6af327bfad70c0480d35d51574ffe8732695da38c586442ee",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "0fbfdaf890da666c9c84884bc206b70dd1bdfbf05589ad293fdbdee544a73bf9": {
+    "flagged": true,
+    "request_sha256": "0fbfdaf890da666c9c84884bc206b70dd1bdfbf05589ad293fdbdee544a73bf9",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "1062f3a7e98a4f1b5a0f7a85121a6cb14f5ff5139dee857a6b37f9e6106ea9a9": {
+    "flagged": true,
+    "request_sha256": "1062f3a7e98a4f1b5a0f7a85121a6cb14f5ff5139dee857a6b37f9e6106ea9a9",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "153363756342d2920919e4ab2d3181e11c2e8d245bf17ae9499013dfd95ae274": {
+    "flagged": true,
+    "request_sha256": "153363756342d2920919e4ab2d3181e11c2e8d245bf17ae9499013dfd95ae274",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "17864b91dddc22120212467c5350cbb0405b203ecde8c59d27b3b06b1ba338c6": {
+    "flagged": true,
+    "request_sha256": "17864b91dddc22120212467c5350cbb0405b203ecde8c59d27b3b06b1ba338c6",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "1ced72ec1490d00dd7959ea4bc572e6c42a98c97903c044b7fcd0370bd91cf47": {
+    "flagged": true,
+    "request_sha256": "1ced72ec1490d00dd7959ea4bc572e6c42a98c97903c044b7fcd0370bd91cf47",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "1e7835a2f0978ec5de8ea1129016d691a6e9381e1b2d8ba79d408210cac44908": {
+    "flagged": true,
+    "request_sha256": "1e7835a2f0978ec5de8ea1129016d691a6e9381e1b2d8ba79d408210cac44908",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "20a48d7d82347075e79d9f443dabc63981987d94da916d2e66aa84994494ed39": {
+    "flagged": true,
+    "request_sha256": "20a48d7d82347075e79d9f443dabc63981987d94da916d2e66aa84994494ed39",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "20b552344a4474c20b255a0f0f3560595a9fbce7244296ecfb5da47756cbf37b": {
+    "flagged": true,
+    "request_sha256": "20b552344a4474c20b255a0f0f3560595a9fbce7244296ecfb5da47756cbf37b",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "20eaa378bbab04052276be367c17101b2807733ffc42bd81af84081944e9d9c7": {
+    "flagged": true,
+    "request_sha256": "20eaa378bbab04052276be367c17101b2807733ffc42bd81af84081944e9d9c7",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "2534733b3239a9551411ca3d67615fd3563d5d6c7049ae5066c9fd3178f4e2d2": {
+    "flagged": true,
+    "request_sha256": "2534733b3239a9551411ca3d67615fd3563d5d6c7049ae5066c9fd3178f4e2d2",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "29a3a8b3245a0fb4b55845b197d52b9c7de2c1ef1e60bad9fb82823ee380138f": {
+    "flagged": true,
+    "request_sha256": "29a3a8b3245a0fb4b55845b197d52b9c7de2c1ef1e60bad9fb82823ee380138f",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "2d052e9edd5286b430db27e8723bd37e621cd8691fb5571d522eb9078988a29d": {
+    "flagged": true,
+    "request_sha256": "2d052e9edd5286b430db27e8723bd37e621cd8691fb5571d522eb9078988a29d",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l3_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "2de8ab82913d22933c8c5637599378854ab349d1f2e1a0b2a4905f066e30f74a": {
+    "flagged": true,
+    "request_sha256": "2de8ab82913d22933c8c5637599378854ab349d1f2e1a0b2a4905f066e30f74a",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "3236764e02d09cc077c17789bb0c6e479708e1da7682431278e9994b205e8cb0": {
+    "flagged": true,
+    "request_sha256": "3236764e02d09cc077c17789bb0c6e479708e1da7682431278e9994b205e8cb0",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "32c019b4df381ea68fe85fe5cf52c32827ce640eb373d51fae4145ea078a059e": {
+    "flagged": true,
+    "request_sha256": "32c019b4df381ea68fe85fe5cf52c32827ce640eb373d51fae4145ea078a059e",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "38113dd811cb337ad349284376599a5cb1edb9054f3179b66751708829d7c1aa": {
+    "flagged": true,
+    "request_sha256": "38113dd811cb337ad349284376599a5cb1edb9054f3179b66751708829d7c1aa",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "39061826c3acbe8cb43252371813ad7d53e038c18b393ed3be0b236c3bdf8949": {
+    "flagged": true,
+    "request_sha256": "39061826c3acbe8cb43252371813ad7d53e038c18b393ed3be0b236c3bdf8949",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "3c1cf54d5274fe03a1343112185d5e57d690eeeb1b3ab6b8ef99a0f1027d6ba5": {
+    "flagged": true,
+    "request_sha256": "3c1cf54d5274fe03a1343112185d5e57d690eeeb1b3ab6b8ef99a0f1027d6ba5",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "3ce2da483ed87d9d5bb53cf1d20950651dc25509783b0cf1af6483a32cd09a5c": {
+    "flagged": true,
+    "request_sha256": "3ce2da483ed87d9d5bb53cf1d20950651dc25509783b0cf1af6483a32cd09a5c",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "3e743ae48c0cb122e8efc571ee47aea15ed5592f2955e5005c8882a5134bd565": {
+    "flagged": true,
+    "request_sha256": "3e743ae48c0cb122e8efc571ee47aea15ed5592f2955e5005c8882a5134bd565",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "3ebbb9a707bee01b9425ffd7d2a82c62f0a860293256715ec28f012d8289b4f0": {
+    "flagged": true,
+    "request_sha256": "3ebbb9a707bee01b9425ffd7d2a82c62f0a860293256715ec28f012d8289b4f0",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "410858c169ca45b76b1c6c652e2a8b068d9444c2140d4ad244d20525a9abaa38": {
+    "flagged": true,
+    "request_sha256": "410858c169ca45b76b1c6c652e2a8b068d9444c2140d4ad244d20525a9abaa38",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "4234ec9b7dd487514900b8e4afa9547d00c32e6720efbc056233c3575384a65d": {
+    "flagged": true,
+    "request_sha256": "4234ec9b7dd487514900b8e4afa9547d00c32e6720efbc056233c3575384a65d",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "42839e5f406e4df30322f074b80aba2fdfc9f74e7904c6d95bfd79dc94f745ce": {
+    "flagged": true,
+    "request_sha256": "42839e5f406e4df30322f074b80aba2fdfc9f74e7904c6d95bfd79dc94f745ce",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "4335b16211e1ca736a864eeb556426857512067055c84c08039b8db20da04a53": {
+    "flagged": true,
+    "request_sha256": "4335b16211e1ca736a864eeb556426857512067055c84c08039b8db20da04a53",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "44150af3537116ca43e546476f07aea1671d73e3a031589f3fcc257e073425bf": {
+    "flagged": true,
+    "request_sha256": "44150af3537116ca43e546476f07aea1671d73e3a031589f3fcc257e073425bf",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "4756506ab4f939d6de32c2df43c502cd5d2474c8a31eb49ab16f74cdd3bfc1c6": {
+    "flagged": true,
+    "request_sha256": "4756506ab4f939d6de32c2df43c502cd5d2474c8a31eb49ab16f74cdd3bfc1c6",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "4975fadd3134e1162794c94bc0597e9cb13d7c9066bf621c51b33eeb786cde12": {
+    "flagged": true,
+    "request_sha256": "4975fadd3134e1162794c94bc0597e9cb13d7c9066bf621c51b33eeb786cde12",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "4a26b3043cc292b88bceafb9dc41506f6ebbe26493e9b1580369f36a37c95938": {
+    "flagged": true,
+    "request_sha256": "4a26b3043cc292b88bceafb9dc41506f6ebbe26493e9b1580369f36a37c95938",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "4bfcd6184b9054a1cf99ce69409f7c765802c1b3ab3536df0102b28042e4d616": {
+    "flagged": true,
+    "request_sha256": "4bfcd6184b9054a1cf99ce69409f7c765802c1b3ab3536df0102b28042e4d616",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "51f52ac82f14aeeb3976983bcda9669566d6b869ea866befdf10a6b5cde14a3e": {
+    "flagged": true,
+    "request_sha256": "51f52ac82f14aeeb3976983bcda9669566d6b869ea866befdf10a6b5cde14a3e",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "52d651d8ca0b7eeb22f6b976a9b7476601788bda0ca4e3dd58b91741feb894dc": {
+    "flagged": true,
+    "request_sha256": "52d651d8ca0b7eeb22f6b976a9b7476601788bda0ca4e3dd58b91741feb894dc",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "53164cc5505461f09d44704278521c394839f1f95e743a42ad0e907c6088d06a": {
+    "flagged": true,
+    "request_sha256": "53164cc5505461f09d44704278521c394839f1f95e743a42ad0e907c6088d06a",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "5c249e357948581d49f945f4feceecd0d5f779ad25f25c6e7ef0ba4756b8ffce": {
+    "flagged": true,
+    "request_sha256": "5c249e357948581d49f945f4feceecd0d5f779ad25f25c6e7ef0ba4756b8ffce",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "675416c9d85694841cd5604d2b0fe3cb0073149c688f72ca1149b6c66494d5ef": {
+    "flagged": true,
+    "request_sha256": "675416c9d85694841cd5604d2b0fe3cb0073149c688f72ca1149b6c66494d5ef",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "6771690b685527cbbafc6eb6f99fcf4d4eff5870d5895ce0ce005c43d1fe9fa1": {
+    "flagged": true,
+    "request_sha256": "6771690b685527cbbafc6eb6f99fcf4d4eff5870d5895ce0ce005c43d1fe9fa1",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "6e3077281094831f566cb6fdd936d804983fff9178a9184b0079552bb045a176": {
+    "flagged": true,
+    "request_sha256": "6e3077281094831f566cb6fdd936d804983fff9178a9184b0079552bb045a176",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "70602d0b30407f3e06415a2c0f0972f7716633dd39d614bfb646276d143c0cc8": {
+    "flagged": true,
+    "request_sha256": "70602d0b30407f3e06415a2c0f0972f7716633dd39d614bfb646276d143c0cc8",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "71b625978d99e9bc12bd01ab35752c4fa43287746a53a96ed97427ec3293d9d2": {
+    "flagged": true,
+    "request_sha256": "71b625978d99e9bc12bd01ab35752c4fa43287746a53a96ed97427ec3293d9d2",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "724122e9ecfc3f17ebd7c2902baa99a2a911b7a5a772dbdaf5649b282afa0c7a": {
+    "flagged": true,
+    "request_sha256": "724122e9ecfc3f17ebd7c2902baa99a2a911b7a5a772dbdaf5649b282afa0c7a",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "73213a1e0fde0b4ed3630b141853536bad6399fa73c58b79f7d36e266ddf8d31": {
+    "flagged": true,
+    "request_sha256": "73213a1e0fde0b4ed3630b141853536bad6399fa73c58b79f7d36e266ddf8d31",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "75710ecced3d1f9599c9b96653d3a0c843a48d2dd78de9137ca0ce8a3e82be6b": {
+    "flagged": true,
+    "request_sha256": "75710ecced3d1f9599c9b96653d3a0c843a48d2dd78de9137ca0ce8a3e82be6b",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "75c0debc05db50ae5946c46e14fe90eb4ac0b0caf15eab44e73ee822ddb172b4": {
+    "flagged": true,
+    "request_sha256": "75c0debc05db50ae5946c46e14fe90eb4ac0b0caf15eab44e73ee822ddb172b4",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "797d6f42bc970e63a053cbaa2003246feafacbdfc29060da38eca05a442359ac": {
+    "flagged": true,
+    "request_sha256": "797d6f42bc970e63a053cbaa2003246feafacbdfc29060da38eca05a442359ac",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "8353df85a8985848d0792c3017f440aad713f5c7d1a24f6642d162ed14181ffc": {
+    "flagged": true,
+    "request_sha256": "8353df85a8985848d0792c3017f440aad713f5c7d1a24f6642d162ed14181ffc",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "83a7ff89ca155915c27f2002f2f7e97e5ab07b55a7940a6fb5500fecad7dba96": {
+    "flagged": true,
+    "request_sha256": "83a7ff89ca155915c27f2002f2f7e97e5ab07b55a7940a6fb5500fecad7dba96",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "83dc07c838ec8c08ea62aea8acd4d645e7bd6b98aae254262cdd8fc8d166348b": {
+    "flagged": true,
+    "request_sha256": "83dc07c838ec8c08ea62aea8acd4d645e7bd6b98aae254262cdd8fc8d166348b",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "8699a08d5adad8600fa36f0904dc8ece09abb92813f62cded569fd33394d10f0": {
+    "flagged": true,
+    "request_sha256": "8699a08d5adad8600fa36f0904dc8ece09abb92813f62cded569fd33394d10f0",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "8c9382ab6ab72b3b8c7f8928be4615c058e06d7280d6ee23f6e7c9761f88885e": {
+    "flagged": true,
+    "request_sha256": "8c9382ab6ab72b3b8c7f8928be4615c058e06d7280d6ee23f6e7c9761f88885e",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "8e0611cd9db29dde3519e5b2674463d261a1729268f166af8b70987300a8ca4a": {
+    "flagged": true,
+    "request_sha256": "8e0611cd9db29dde3519e5b2674463d261a1729268f166af8b70987300a8ca4a",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "90a4304d650563f157cb2e56431746b2fb5650c0ccf5be21020689c766be184b": {
+    "flagged": true,
+    "request_sha256": "90a4304d650563f157cb2e56431746b2fb5650c0ccf5be21020689c766be184b",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "9137132a1bf54603f6cbe5875fb53d1444cad180d4efe65719c9aa20d1972df3": {
+    "flagged": true,
+    "request_sha256": "9137132a1bf54603f6cbe5875fb53d1444cad180d4efe65719c9aa20d1972df3",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "937c0a295594d004258731f24c53c8c94eacf386d0f185878e065758df97f7d9": {
+    "flagged": true,
+    "request_sha256": "937c0a295594d004258731f24c53c8c94eacf386d0f185878e065758df97f7d9",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "95d46798101ba2abe40c7cf0851675f803d32f986aeb69e44f7d3760ace5462b": {
+    "flagged": true,
+    "request_sha256": "95d46798101ba2abe40c7cf0851675f803d32f986aeb69e44f7d3760ace5462b",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "9aeba3b56c99034d88e60d1a837f457352f0119caf11cbf4188ddb0506beea58": {
+    "flagged": true,
+    "request_sha256": "9aeba3b56c99034d88e60d1a837f457352f0119caf11cbf4188ddb0506beea58",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "9bdd3f73fe44de2c143eee8a3498672bfc43d6651b57c5246091e2cf463ccdc2": {
+    "flagged": true,
+    "request_sha256": "9bdd3f73fe44de2c143eee8a3498672bfc43d6651b57c5246091e2cf463ccdc2",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "9cbb22f666da348061d59048dacb5198d20ec861c1bdb3c8b08d313433e2521f": {
+    "flagged": true,
+    "request_sha256": "9cbb22f666da348061d59048dacb5198d20ec861c1bdb3c8b08d313433e2521f",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "9eed87400b0999eb77a13565f1406629232c4a5c5490c239758dd22f96abd17f": {
+    "flagged": true,
+    "request_sha256": "9eed87400b0999eb77a13565f1406629232c4a5c5490c239758dd22f96abd17f",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "a23a58909da946b5b5abdc531b1eb8aba74399ed3c6b799537194b98a0987a36": {
+    "flagged": true,
+    "request_sha256": "a23a58909da946b5b5abdc531b1eb8aba74399ed3c6b799537194b98a0987a36",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "a38918c903fc4e53cd8cf64c082548149d31bafd3c0601029eb269306d55f54d": {
+    "flagged": true,
+    "request_sha256": "a38918c903fc4e53cd8cf64c082548149d31bafd3c0601029eb269306d55f54d",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "a8125a2872cf059e5ea797072b4508668b80d7c631a8bff27f8541e6ee8c6b06": {
+    "flagged": true,
+    "request_sha256": "a8125a2872cf059e5ea797072b4508668b80d7c631a8bff27f8541e6ee8c6b06",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "ab476d159ef3b0b19b9c1a263da819b54fea69cb41a72221f4660a0008f201e1": {
+    "flagged": true,
+    "request_sha256": "ab476d159ef3b0b19b9c1a263da819b54fea69cb41a72221f4660a0008f201e1",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "abe9ec4fef192ef9ddc89d1086a7bc4b7fb9fdac116108789d56ca40f7b2fc5e": {
+    "flagged": true,
+    "request_sha256": "abe9ec4fef192ef9ddc89d1086a7bc4b7fb9fdac116108789d56ca40f7b2fc5e",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "ac3abfa608c61f563f6a74e9115178015a8a02b36c20abe66935a856238faa64": {
+    "flagged": true,
+    "request_sha256": "ac3abfa608c61f563f6a74e9115178015a8a02b36c20abe66935a856238faa64",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "b3ca1bb197e79370268c46303b7b53aec5471d8e396a2eeac469f0de10c54892": {
+    "flagged": true,
+    "request_sha256": "b3ca1bb197e79370268c46303b7b53aec5471d8e396a2eeac469f0de10c54892",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "b4c90eea6f38133993283fdbb49a8f4ef03625313aa526525617635287843054": {
+    "flagged": true,
+    "request_sha256": "b4c90eea6f38133993283fdbb49a8f4ef03625313aa526525617635287843054",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "b7f7704d02ac88c16fa7dd5fccc3ef55c6cc5f58da8058e4832413ee398d6a49": {
+    "flagged": true,
+    "request_sha256": "b7f7704d02ac88c16fa7dd5fccc3ef55c6cc5f58da8058e4832413ee398d6a49",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "bccb05014c5484a67ebfd2ff27c7af7e3bc9c9e05df0e5b4ad16934061679577": {
+    "flagged": true,
+    "request_sha256": "bccb05014c5484a67ebfd2ff27c7af7e3bc9c9e05df0e5b4ad16934061679577",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "be09c4741070120d1ecd021cf153a4600176276778e3ab2ade4e48d8dae52085": {
+    "flagged": true,
+    "request_sha256": "be09c4741070120d1ecd021cf153a4600176276778e3ab2ade4e48d8dae52085",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "be5bbe4c6ae45cd251a7fbc21519c42388e29360fc02fcab521158ec0c8de083": {
+    "flagged": true,
+    "request_sha256": "be5bbe4c6ae45cd251a7fbc21519c42388e29360fc02fcab521158ec0c8de083",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "bee3ce91c979a455fcd9cbde9512c81b2ba131156519eec993618b4008abb706": {
+    "flagged": true,
+    "request_sha256": "bee3ce91c979a455fcd9cbde9512c81b2ba131156519eec993618b4008abb706",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "bf336a0254e6114d9315bc6b696747e053a65675f1a790729c4b4982564076ec": {
+    "flagged": true,
+    "request_sha256": "bf336a0254e6114d9315bc6b696747e053a65675f1a790729c4b4982564076ec",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "c08a00e627b32269973063bf1155d8707bea9a6882c122750ef8f28338907f58": {
+    "flagged": true,
+    "request_sha256": "c08a00e627b32269973063bf1155d8707bea9a6882c122750ef8f28338907f58",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "c2824144a5684b8c8a3e699f5ec05f37bb4d9459a58239610c2c05cf6bb7c62f": {
+    "flagged": true,
+    "request_sha256": "c2824144a5684b8c8a3e699f5ec05f37bb4d9459a58239610c2c05cf6bb7c62f",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "c430f5775753ad79f31008f6f44fa975c9ce842347bf3a18558f8ebf142d6886": {
+    "flagged": true,
+    "request_sha256": "c430f5775753ad79f31008f6f44fa975c9ce842347bf3a18558f8ebf142d6886",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "d099453967ca4f7bf46bb6e4de422d6ca00e8ca8eaa0225715d673c544920e79": {
+    "flagged": true,
+    "request_sha256": "d099453967ca4f7bf46bb6e4de422d6ca00e8ca8eaa0225715d673c544920e79",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "d1d1b56bd15b6456545df924f9c8319d97e2d82c0462a3a69ea61e5a2769e23f": {
+    "flagged": true,
+    "request_sha256": "d1d1b56bd15b6456545df924f9c8319d97e2d82c0462a3a69ea61e5a2769e23f",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "d5fb886078b1e64534494145077bbf0dd48e3b37eeaeb92a9116915dbf7ea0fc": {
+    "flagged": true,
+    "request_sha256": "d5fb886078b1e64534494145077bbf0dd48e3b37eeaeb92a9116915dbf7ea0fc",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "d6b5c16eda4a4460aabafd2c7cc324e4ffbceb0519058e6c98b7c1de7e3a4a9e": {
+    "flagged": true,
+    "request_sha256": "d6b5c16eda4a4460aabafd2c7cc324e4ffbceb0519058e6c98b7c1de7e3a4a9e",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "d8cc12b8eaacd159f7c72623433a86bb96b9dad668f3e80df5cdac136e2f7690": {
+    "flagged": true,
+    "request_sha256": "d8cc12b8eaacd159f7c72623433a86bb96b9dad668f3e80df5cdac136e2f7690",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "da2786235f139f368e365a865248312ce73d713fe7e76bcea364a885305b5a0c": {
+    "flagged": true,
+    "request_sha256": "da2786235f139f368e365a865248312ce73d713fe7e76bcea364a885305b5a0c",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "da9e9b1fca2b3b4d3953532f0044a6005a5b31402c5ec9c8fb380fa216ee7276": {
+    "flagged": true,
+    "request_sha256": "da9e9b1fca2b3b4d3953532f0044a6005a5b31402c5ec9c8fb380fa216ee7276",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "db78e0ffc479444186f4de1b5fecc2d445fd3818ea056e1955b1775326cc9878": {
+    "flagged": true,
+    "request_sha256": "db78e0ffc479444186f4de1b5fecc2d445fd3818ea056e1955b1775326cc9878",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "dbabb107005bd0e57609be64d98c4f0a404001e01d1553fae0f182adea912066": {
+    "flagged": true,
+    "request_sha256": "dbabb107005bd0e57609be64d98c4f0a404001e01d1553fae0f182adea912066",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "e7660bce5abff122e86a62320c6cdc82cb1e8e1911f362d931810da78162ac46": {
+    "flagged": true,
+    "request_sha256": "e7660bce5abff122e86a62320c6cdc82cb1e8e1911f362d931810da78162ac46",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "f356e8e276f76a14d034cafa68118f09eaa3e62cadf6f0b6ba7b063ef8a990b2": {
+    "flagged": true,
+    "request_sha256": "f356e8e276f76a14d034cafa68118f09eaa3e62cadf6f0b6ba7b063ef8a990b2",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "f3f3e34139f82182d8d6c044291cb4da743fcd25ee8c4b7d57635d3350b6ccf2": {
+    "flagged": true,
+    "request_sha256": "f3f3e34139f82182d8d6c044291cb4da743fcd25ee8c4b7d57635d3350b6ccf2",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "fa6d81c21918e367b0d9bb4267f09421c15e8fa1099b9e1dc1d38f9255f08d92": {
+    "flagged": true,
+    "request_sha256": "fa6d81c21918e367b0d9bb4267f09421c15e8fa1099b9e1dc1d38f9255f08d92",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  },
+  "fae58da0104309b04ca816d9f4314f68568ed75c71f9f088da2d1a4ddb1631ff": {
+    "flagged": true,
+    "request_sha256": "fae58da0104309b04ca816d9f4314f68568ed75c71f9f088da2d1a4ddb1631ff",
+    "response": {
+      "breakdown": [
+        {
+          "detected": true,
+          "detector_id": "detector-lakera-default-prompt-attack",
+          "detector_type": "prompt_attack",
+          "message_id": 0,
+          "policy_id": "policy-lakera-default",
+          "result": "l4_less_likely"
+        }
+      ],
+      "dev_info": {
+        "git_revision": "653bdfc7",
+        "git_timestamp": "2026-07-08T15:39:25Z",
+        "model_version": "lakera-guard-1",
+        "version": "0.1.736"
+      },
+      "flagged": true,
+      "metadata": {}
+    },
+    "status": "ok",
+    "unsafe": true
+  }
+}

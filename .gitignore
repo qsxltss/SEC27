@@ -1,0 +1,11 @@
+/output_old
+/output
+
+__pycache__/
+
+/data/datasets/nfcorpus/bge
+/data/datasets/nfcorpus/bm25
+/data/datasets/scifact/bge
+/data/datasets/scifact/bm25
+/data/datasets/trec-covid/bge
+/data/datasets/trec-covid/bm25
